@@ -1,0 +1,1 @@
+import{d as o,a as s,_ as n,c as a,o as c,b as r}from"./index-d5cbe187.js";const _=o({name:"TestPage",setup(){return{}},mounted(){const t=s.get("test").then(e=>e.data).catch(e=>console.log(e));console.log(t)}}),d=r("h1",null,"Test Page",-1),l=[d];function p(t,e,i,u,f,m){return c(),a("div",null,l)}const h=n(_,[["render",p]]);export{h as default};
